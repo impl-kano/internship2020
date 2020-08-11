@@ -2,6 +2,15 @@
 
 ## 初日のウォーミングアップ: HTML CSS JavaScript のキホン
 
+
+### 🍼 準備
+
+- VSCodeをインストール
+- VSCodeの拡張機能（Live Server）をインストール
+- Chromeをインストール
+  
+
+
 ### 🦒 ウォーミングアップ1 HTML&CSS
 
 
