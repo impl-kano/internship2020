@@ -1,4 +1,4 @@
-# New-Salon-Web
+# React の キホン
 
 ## 環境構築
 
