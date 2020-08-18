@@ -5,9 +5,10 @@
 
 ### 🍼 準備
 
-- VSCodeをインストール
-- VSCodeの拡張機能（Live Server）をインストール
-- Chromeをインストール
+- VSCodeをインストール https://azure.microsoft.com/ja-jp/products/visual-studio-code/
+- VSCodeの拡張機能（Live Server）をインストール https://www.mitsue.co.jp/knowledge/blog/frontend/201810/02_1329.html
+- Chromeをインストール https://www.google.com/intl/ja_jp/chrome/
+- Dockerをインストール https://www.docker.com/
   
 
 
