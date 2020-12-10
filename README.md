@@ -30,6 +30,7 @@
   - useStateを使った状態管理
   - Propsを使ったコンポーネント同士のやり取り
   - 配列をmapしてリストをレンダリングする
+  - オブジェクト配列をマップしてレンダリングする
   - フォームに入力される値をStateにバインドする
 
 - useEffectとライフサイクル
@@ -45,13 +46,43 @@
   - 三項演算子による場合わけ
   - ショートサーキットによる場合わけ
   
-- 同期処理・非同期処理について
+- 通信・同期処理・非同期処理について
+  - APIからデータをフェッチして画面に表示させる
   - コールスタックとイベントループについて
   - Promiseについて
   - Async/ Awaitについて
 
+- ReactNative入門: Git操作とともに~
+  - 環境構築（つまりやすいので必ず公式ドキュメント通り行う）
+
+- JSXでtouchable なボタンを作成して、developブランチにpushする
+- ボタンをクリックしたらモーダルウィンドウが表示されるように修正して、developブランチにpushする
+
+- 画面遷移の実装
+  - ReactNavigationを使用して画面遷移を実装する
+  
+- Reduxの導入
+  - Reduxとは
+  - actionの概要
+  - Reducerの概要
+  - StoreとProviderを作る
+  
+- ログイン状態をReduxで管理する
+  - ログイン状態でしか見られない画面（NavigationStack）を作成する
+
+- UIの模写
+  - https://dribbble.com/ から好きなモバイルデザインを選択し、似たような画面をReactNativeで作ってみる
+  - コンポーネントを分ける
+  - RNのウィジェットを色々使って慣れる
+  - インラインCSS
+  - 画像のインポート-> 表示
+  - FontAwesomeを読み込んでアイコン表示
+  - 水平スクロール  ...など
+
+  
 
 
+---
 
 ## ウォーミングアップ: HTML CSS JavaScript のキホン
 
@@ -61,7 +92,6 @@
 - VSCodeをインストール https://azure.microsoft.com/ja-jp/products/visual-studio-code/
 - VSCodeの拡張機能（Live Server）をインストール https://www.mitsue.co.jp/knowledge/blog/frontend/201810/02_1329.html
 - Chromeをインストール https://www.google.com/intl/ja_jp/chrome/
-- Dockerをインストール https://www.docker.com/
   
 
 
