@@ -138,3 +138,8 @@ https://qiita.com/impl_s/private/545a7725bfc4b35d74a1
 ##  １時間でuseStateからReduxまで理解する
 
 https://qiita.com/impl_s/private/aefc6574d1262e6e67bf
+
+
+## 非同期処理のチュートリアル
+
+https://qiita.com/impl_s/items/8ffbe865b8c53a75cfe3
